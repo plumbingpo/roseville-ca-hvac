@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rosevillecahvac.com/sitemap.xml
